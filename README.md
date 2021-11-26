@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @E-Crea8
-- 👀 I’m interested in PHP, Laravel Node.js, Vue.js and React.js development
-- 🌱 I’m currently learning Vue.js
+- 👀 I’m interested in WordPress, PHP, HTML5, CSS3, JavaScript, MySQL, and React.js development
+- 🌱 I’m currently learning Laravel Framework
 - 💞️ I’m looking to collaborate on open projects
-- 📫 How to reach me ... emmanuel.ogundare@gmail.com | https://ecreationstech.com | +2347034744403
+- 📫 How to reach me ... ogundare.emmanuel@gmail.com | https://ecreationstech.com | +2347034744403
 
 <!---
 E-Crea8/E-Crea8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
