@@ -8,7 +8,7 @@
 - MY PORTFOLIO
 - https://hashtagquiz.co.uk
 - https://rpat.co.uk
-- httpx://verocletservices.com
+- https://verocletservices.com
 - https://adecom.edu.ng
 - https://iwn.ng
 - https://bitlinetechnologies.com
