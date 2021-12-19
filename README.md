@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @E-Crea8
+- 👋 Hi, I’m Emmanuel Ogundare - @E-Crea8
 - 👀 I’m interested in WordPress, PHP, HTML5, CSS3, JavaScript, MySQL, and Woo-Commerce development
 - 🌱 I’m currently learning Laravel Framework
 - 💞️ I’m looking to collaborate on open projects
@@ -8,13 +8,13 @@
 - MY PORTFOLIO
 - https://hashtagquiz.co.uk
 - https://rpat.co.uk
+- https://ayoessien.org
 - https://verocletservices.com
 - https://adecom.edu.ng
 - https://iwn.ng
 - https://bitlinetechnologies.com
 - https://radianceshieldproperties.com
 - https://app.iwn.ng
-- https://ayoessien.xyz
 - https://app.ceibnvirtuallchurch.org
 - https://denikkbeauty.com
 - https://ditaconsulting.co.uk
