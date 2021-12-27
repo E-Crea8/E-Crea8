@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Emmanuel Oluwaseyi Ogundare - @E-Crea8
 - 👀 I'm a proficient and creative WordPress developer with a strong history in website management and development. Experienced in SEO, Google, and Facebook campaign creation. An expert in all aspects of WordPress website creation, including design, themes, plugins, and implementation. I'm also Skilled in creating engaging and interactive websites.
-- 🌱 I’m currently learning Laravel Framework
 - 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me ... ogundare.emmanuel@gmail.com | https://ecreationstech.com | +2347034744403
 
