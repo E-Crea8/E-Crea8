@@ -7,7 +7,9 @@
 
 ## **MY PORTFOLIO**
 - https://hashtagquiz.co.uk
+- https://waitlist.klasshour.com (A waitlist system developed using Bootstrap, CSS3, JavaScript, HTML5, PHP/MySQL, JQuery, and AJAX)
 - https://rpat.co.uk
+- https://techsavvyteacherintl.com
 - https://ayoessien.org
 - https://verocletservices.com
 - https://adecom.edu.ng
@@ -15,9 +17,9 @@
 - https://store.iwn.ng
 - https://bitlinetechnologies.com
 - https://radianceshieldproperties.com
-- https://app.iwn.ng
-- https://app.ceibnvirtualchurch.org/ce-attendance-app/
-- https://denikkbeauty.com
+- https://app.iwn.ng (An office management system developed using Bootstrap, CSS3, JavaScript, HTML5, PHP/MySQL, JQuery, and AJAX)
+- https://app.ceibnvirtualchurch.org/ce-attendance-app/ (An attendance management system developed using Bootstrap, CSS3, JavaScript, HTML5, PHP/MySQL, JQuery, and AJAX)
+- https://denikkbeauty.com (A store management system developed using Bootstrap, CSS3, JavaScript, HTML5, PHP/MySQL, JQuery, and AJAX)
 - https://pemawaterpark.com
 - https://playtexfabrics.com/
 
