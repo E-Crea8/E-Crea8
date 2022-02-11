@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Emmanuel Oluwaseyi Ogundare - @E-Crea8
 - 👀 I'm a proficient and creative Web developer with a strong history in website development and management. Experienced in HTML5, CSS3, SCSS, Bootstrap, Javascript, AJAX, JQuery, API, PHP/MySQL, WordPress, WooCommerce, and Drupal. I'm also Skilled in creating engaging and interactive websites, SEO, Graphic designs, and web application development. I am also exploring new web technologies and fast adapting myself to them.
 - 💞️ I’m looking to collaborate on open projects
-- 📫 How to reach me ... ogundare.emmanuel@gmail.com | https://ecreationstech.com
+- 📫 How to reach me ... ogundare.emmanuel@gmail.com
 
 
 ## **MY PORTFOLIO**
