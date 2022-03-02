@@ -6,22 +6,41 @@
 
 
 ## **MY PORTFOLIO**
-- https://hashtagquiz.co.uk
+- https://hashtagquiz.co.uk (Developed with WordPress)
+
 - https://waitlist.klasshour.com (A waitlist system developed using Bootstrap, CSS3, JavaScript, HTML5, PHP/MySQL, JQuery, and AJAX)
-- https://rpat.co.uk
-- https://techsavvyteacherintl.com
-- https://ayoessien.org
-- https://verocletservices.com
-- https://adecom.edu.ng
-- https://iwn.ng
-- https://store.iwn.ng
-- https://bitlinetechnologies.com
-- https://radianceshieldproperties.com
+
+- https://rpat.co.uk (Developed with WordPress)
+
+- https://techsavvyteacherintl.com (Developed with WordPress)
+ 
+- https://callisfieldproperties.com/ (Developed with WordPress)
+
+- https://quickgorides.com/ (Developed with WordPress)
+
+- https://ayoessien.org (Developed with WordPress)
+ 
+- https://verocletservices.com (Developed with WordPress)
+
+- https://adecom.edu.ng (Developed with WordPress)
+ 
+- https://iwn.ng (Developed with WordPress)
+
+- https://store.iwn.ng (Developed with WordPress/WooCommerce)
+
+- https://bitlinetechnologies.com (Developed with WordPress)
+
+- https://radianceshieldproperties.com (Developed with WordPress)
+
 - https://app.iwn.ng (An office management system developed using Bootstrap, CSS3, JavaScript, HTML5, PHP/MySQL, JQuery, and AJAX)
+
 - https://app.ceibnvirtualchurch.org/ce-attendance-app/ (An attendance management system developed using Bootstrap, CSS3, JavaScript, HTML5, PHP/MySQL, JQuery, and AJAX)
+
 - https://denikkbeauty.com (A store management system developed using Bootstrap, CSS3, JavaScript, HTML5, PHP/MySQL, JQuery, and AJAX)
-- https://pemawaterpark.com
-- https://playtexfabrics.com/
+ 
+- https://pemawaterpark.com (Developed with HTML5, CSS, Bootstrap, Javascript, PHP/MySQL)
+
+- https://playtexfabrics.com/ (Developed with WordPress)
 
 
 <!---
