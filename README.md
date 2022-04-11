@@ -18,6 +18,8 @@
 
 - https://quickgorides.com/ (Developed with WordPress)
 
+- https://requizaacademy.com (Frontend Developed with HTML5, CSS3, Bootstrap5, SCSS, Javascript, and JQuery UI)
+
 - https://ayoessien.org (Developed with WordPress)
  
 - https://verocletservices.com (Developed with WordPress)
