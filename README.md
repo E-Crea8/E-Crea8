@@ -6,7 +6,11 @@
 
 
 ## **MY PORTFOLIO**
-- https://hashtagquiz.co.uk (Developed with WordPress)
+- https://hashtagquiz.co.uk (Developed with WordPress, ACF, Elementor, and Custom Queries)
+
+- https://bnmonde.com (A Language E-Learning Website Developed with Bootstrap, CSS3, SCSS, JavaScript, jQuery, AJAX, and PHP/MySQL)
+
+- https://techitng.com (An IT Startup Website Developed with Bootstrap, CSS3, SCSS, JavaScript, jQuery, AJAX, and PHP/MySQL)
 
 - https://waitlist.klasshour.com (A waitlist system developed using Bootstrap, CSS3, JavaScript, HTML5, PHP/MySQL, JQuery, and AJAX)
 
