@@ -16,7 +16,11 @@
 
 - https://rpat.co.uk (Developed with WordPress)
 
-- https://sistershipcircle.com (Developed with WordPress, Elementor, ACFs, and Plugin Customisation)
+- https://sistershipcircle.com (Developed with WordPress, Woocomeerce, Elementor, ACFs, and Plugin Customisation)
+
+- https://wellnessforce.com (Developed with WordPress, Woocomeerce, Elementor, ACFs, and Plugin Customisation)
+
+- https://lifeforceblessings.com (Developed with WordPress, Divi, ACFs, and Plugin Customisation)
 
 - https://techsavvyteacherintl.com (Developed with WordPress)
  
