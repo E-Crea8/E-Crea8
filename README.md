@@ -6,7 +6,7 @@
 
 
 ## **MY PORTFOLIO**
-- https://damagedfruits.com (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Gutenberg Blocks, Custom WooCommerce Development, Custom Post Types, and Custom PHP Functions)
+- https://sistershipcircle.com (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Gutenberg Blocks, Custom WooCommerce Development, Custom Post Types, and Custom PHP Functions)
 
 - https://hashtagquiz.co.uk (Developed with WordPress, ACF, Elementor, and Custom Queries)
 
@@ -18,9 +18,7 @@
 
 - https://rpat.co.uk (Developed with WordPress)
 
-- https://sistershipcircle.com (Developed with WordPress, Woocomeerce, Elementor, ACFs, and Plugin Customisation)
-
-- https://wellnessforce.com (Developed with WordPress, Woocomeerce, Elementor, ACFs, and Plugin Customisation)
+- https://wellnessforce.com (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Gutenberg Blocks, Custom WooCommerce Development, Custom Post Types, and Custom PHP Functions)
 
 - https://lifeforceblessings.com (Developed with WordPress, Divi, ACFs, and Plugin Customisation)
 
