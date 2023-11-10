@@ -1,11 +1,13 @@
 # About Me
 - 👋 Hi, I’m Emmanuel Oluwaseyi Ogundare - @E-Crea8
-- 👀 I'm a proficient and creative Web developer with a strong history in website development and management. Experienced in HTML5, CSS3, SCSS, Bootstrap, Javascript, AJAX, JQuery, API, PHP/MySQL, WordPress, WooCommerce, Advanced Custom Fields (ACFs), Elementor, WP Bakery Visual Builder, Divi Page Builder, WP engine, AWS, and Plugin Setup and Customisation. I'm also Skilled in creating engaging and interactive websites, SEO, Graphic designs, and web application development. I am also exploring new web technologies and fast adapting myself to them.
-- 💞️ I’m open to positions and looking to collaborate on open projects
+- 👀 I'm a proficient and creative Web developer with a strong history in website development and management. Experienced in HTML5, CSS3, SCSS, Bootstrap, Javascript, AJAX, JQuery, API, PHP/MySQL, WordPress, Custom Theme Development, WooCommerce, Advanced Custom Fields (ACFs), Gutenberg Blocks, Elementor, WP Bakery Visual Builder, Divi Page Builder, WP engine, AWS, Custom Plugin Development, and Plugin Setup and Customisation. I'm also Skilled in creating engaging and interactive websites, SEO, Page Speed Optimization, Web application development, and Graphics Design. I am also exploring new web technologies and fast adapting myself to them.
+- 💞️ I’m open to positions and looking to collaborate on open projects.
 - 📫 How to reach me ... ogundare.emmanuel@gmail.com
 
 
 ## **MY PORTFOLIO**
+- https://cuab.edu.ng (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Gutenberg Blocks, Custom Post Types, Custom Plugin Development, and Custom PHP Functions)
+
 - https://sistershipcircle.com (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Gutenberg Blocks, Custom WooCommerce Development, Custom Post Types, and Custom PHP Functions)
 
 - https://hashtagquiz.co.uk (Developed with WordPress, ACF, Elementor, and Custom Queries)
