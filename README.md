@@ -12,7 +12,7 @@
 
 - https://www.entrebiz-pte.com (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Gutenberg Blocks, Custom Post Types, Custom Plugin Development, and Custom PHP Functions)
 
-- https://sistershipcircle.com (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Gutenberg Blocks, Custom WooCommerce Development, Custom Post Types, and Custom PHP Functions)
+- https://sistershipcircle.com (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Elementor, Custom WooCommerce Development, Custom Post Types, and Custom PHP Functions)
 
 - https://hashtagquiz.co.uk (Developed with WordPress, ACF, Elementor, and Custom Queries)
 
