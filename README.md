@@ -8,7 +8,7 @@
 ## **MY PORTFOLIO**
 - https://cuab.edu.ng (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Gutenberg Blocks, Custom Post Types, Custom Plugin Development, and Custom PHP Functions)
 
-- https://denkmann.ro (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Elementor, Custom Post Types, Custom Plugin Development, and Custom PHP Functions)
+- https://denkmann.ro (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Elementor, Custom Post Types, Custom Plugin Development, WPML, and Custom PHP Functions)
 
 - https://www.entrebiz-pte.com (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Gutenberg Blocks, Custom Post Types, Custom Plugin Development, and Custom PHP Functions)
 
