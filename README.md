@@ -6,17 +6,19 @@
 
 
 ## **MY PORTFOLIO**
-- https://cuab.edu.ng (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Gutenberg Blocks, Custom Post Types, Custom Plugin Development, and Custom PHP Functions)
+- https://cuab.edu.ng (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Gutenberg Blocks, Custom Post Types, Custom Plugin Development, and Custom PHP Functions. Also worked on SEO and Site Speed Optimisation.)
 
-- https://denkmann.ro (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Elementor, Custom Post Types, Custom Plugin Development, WPML, and Custom PHP Functions)
+- https://denkmann.ro (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Elementor, Custom Post Types, Custom Plugin Development, WPML, and Custom PHP Functions. Also worked on SEO and Site Speed Optimisation.)
 
-- https://www.entrebiz-pte.com (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Gutenberg Blocks, Custom Post Types, Custom Plugin Development, and Custom PHP Functions)
+- https://www.entrebiz-pte.com (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Gutenberg Blocks, Custom Post Types, Custom Plugin Development, and Custom PHP Functions. Also worked on SEO and Site Speed Optimisation.)
 
-- https://sistershipcircle.com (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Elementor, Custom WooCommerce Development, Custom Post Types, and Custom PHP Functions)
+- https://sistershipcircle.com (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Elementor, Custom WooCommerce Development, Custom Post Types, and Custom PHP Functions. Also worked on SEO and Site Speed Optimisation.)
 
-- https://hashtagquiz.co.uk (Developed with WordPress, ACF, Elementor, and Custom Queries)
+- https://inside-monaco.com (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Gutenberg Blocks, Custom Post Types, Custom Plugin Development, and Custom PHP Functions. Also worked on SEO and Site Speed Optimisation.)
 
-- https://adecom.edu.ng (Translated Figma UI/UX Design to a Custom Responsive WordPress Theme using Elementor Page Builder, ACFs, Custom Post Types, and Custom Elementor Queries)
+- https://hashtagquiz.co.uk (Developed with WordPress, ACF, Elementor, and Custom Queries. Also worked on SEO and Site Speed Optimisation.)
+
+- https://adecom.edu.ng (Translated Figma UI/UX Design to a Custom Responsive WordPress Theme using Elementor Page Builder, ACFs, Custom Post Types, and Custom Elementor Queries. Also worked on SEO and Site Speed Optimisation.)
 
 - https://techitng.com (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with CSS3, SCSS, JavaScript, jQuery, AJAX, Gutenberg Blocks, Custom Post Types, Custom Plugin Development, and Custom PHP Functions)
 
@@ -24,7 +26,7 @@
 
 - https://wellnessforce.com (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Gutenberg Blocks, Custom WooCommerce Development, Custom Post Types, and Custom PHP Functions)
 
-- https://lifeforceblessings.com (Developed with WordPress, Divi, ACFs, and Plugin Customisation)
+- https://lifeforceblessings.com (Developed with WordPress, Divi, ACFs, and Plugin Customisation. Also worked on SEO and Site Speed Optimisation.)
 
 - https://radianceshieldproperties.com (Developed with WordPress + WP Bakery Visual Builder)
 
