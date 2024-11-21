@@ -6,6 +6,8 @@
 
 
 ## **MY PORTFOLIO**
+- https://slatedesignremodel.com (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Elementor, Custom Post Types, Custom Plugin Development, WordPress API, and Custom PHP Functions. Also worked on SEO and Site Speed Optimisation.)
+
 - https://cuab.edu.ng (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Gutenberg Blocks, Custom Post Types, Custom Plugin Development, and Custom PHP Functions. Also worked on SEO and Site Speed Optimisation.)
 
 - https://denkmann.ro (Translated Figma UI/UX Design to a custom responsive WordPress theme developed with HTML5, CSS, Javascript, SCSS, WordPress, Elementor, Custom Post Types, Custom Plugin Development, WPML, and Custom PHP Functions. Also worked on SEO and Site Speed Optimisation.)
