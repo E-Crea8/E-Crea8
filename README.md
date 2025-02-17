@@ -2,9 +2,9 @@
 - 👋 Hi, I’m Emmanuel Oluwaseyi Ogundare - @E-Crea8
 - 👀 I'm a seasoned web developer specializing in custom WordPress development, with a particular focus on translating Figma UI/UX designs into fully responsive, custom WordPress themes. My expertise includes developing tailored WordPress solutions—from crafting unique themes and integrating WooCommerce functionalities to managing and updating websites for optimal performance.
 
-I possess in-depth knowledge of HTML5, CSS3, SCSS, Bootstrap, Tailwind, JavaScript, ReactJS, WordPress, WooCommerce, PHP/MySQL, and Git/GitHub for CI/CD enabling me to deliver high-quality, interactive websites. My WordPress experience extends to using advanced tools such as Advanced Custom Fields (ACFs), Gutenberg Blocks, Elementor, and Divi, ensuring that every project meets modern standards of design and functionality.
+- I possess in-depth knowledge of HTML5, CSS3, SCSS, Bootstrap, Tailwind, JavaScript, ReactJS, WordPress, WooCommerce, PHP/MySQL, and Git/GitHub for CI/CD, which enables me to deliver high-quality, interactive websites. My WordPress experience extends to using advanced tools such as Advanced Custom Fields (ACFs), Gutenberg Blocks, Elementor, and Divi, ensuring that every project meets modern standards of design and functionality.
 
-Beyond development, I excel in website management, providing comprehensive maintenance and updates to keep sites running smoothly. I constantly explore new web technologies and strive to bring innovation and efficiency to every project.
+- Beyond development, I excel in website management, providing comprehensive maintenance and updates to keep sites running smoothly. I constantly explore new web technologies and strive to bring innovation and efficiency to every project.
 - 💞️ I’m open to positions and looking to collaborate on open projects.
 - 📫 How to reach me ... ogundare.emmanuel@gmail.com
 
